@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a passionate  **Quality Assurance Engineer** w
 ### 🌟 Professional Experience:
 - **Lead Quality Assurance Engineer**  🛠️
 - **Software Test Automation Architect** 🖥️
+- **Performance Test Specialist** 📊
 
 ### 💻 Technologies:
 - **Automation Tools**: Selenium, Cucumber, BDD, Cypress, Playwright, Robotframework, REST Assured 🤖

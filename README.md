@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jeissy!
 
-Welcome to my GitHub profile! I'm a passionate **Quality Assurance Engineer** with over 8 years of experience in QA and test automation. 🚀
+Welcome to my GitHub profile! I'm a passionate  **Quality Assurance Engineer** with over 8 years of experience in QA and test automation. 🚀
 
 ---
 ## 👩‍💻 About Me
@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a passionate **Quality Assurance Engineer** wi
 - **Automation Tools**: Selenium, Cucumber, BDD, Cypress, Playwright, Robotframework, REST Assured 🤖
 - **Programming**: Java, JavaScript, Python, TypeScript 💻
 - **CI/CD**: Jenkins, GitHub, GitLab 🔄
+- **Test Management**: Xray, QAse 📋🐞 
   
 ---
 ## 🛠️ Certifications

@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate  **Quality Assurance Engineer** w
 ---
 ## 🌐 Let's Connect!
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jeissy-guimaraes)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeissy-guimaraes)
 - [![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jeissyguimaraes)
 
 Thank you for visiting my profile! 😊

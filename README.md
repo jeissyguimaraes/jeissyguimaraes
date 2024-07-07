@@ -13,7 +13,9 @@ Welcome to my GitHub profile! I'm a passionate  **Quality Assurance Engineer** w
 - **Automation Tools**: Selenium, Cucumber, BDD, Cypress, Playwright, Robotframework, REST Assured 🤖
 - **Programming**: Java, JavaScript, Python, TypeScript 💻
 - **CI/CD**: Jenkins, GitHub, GitLab 🔄
-- **Test Management**: Xray, QAse 📋🐞 
+- **Test Management**: Xray, QAse 📋🐞
+- **Reporting**: Serenity, Allure, ReportPortal 📝
+- **Device Farms**: BrowserStack, AWSFarm, Applitools 📱
   
 ---
 ## 🛠️ Certifications
